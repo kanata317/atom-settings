@@ -1,0 +1,25 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+    tabLength: 4
+  esformatter:
+    formatOnSave: true
+  "exception-reporting":
+    userId: "4327bedb-f693-59ab-8d50-b10b3b9ae8e1"
+  "git-projects":
+    rootPath: "/Users/kanata/workspace"
+  "linter-eslint":
+    eslintrcPath: "/Users/kanata/"
+    globalNodePath: "/Users/kanata/.nvm/versions/node/v4.2.4"
+    useGlobalEslint: true
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false

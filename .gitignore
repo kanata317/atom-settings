@@ -1,0 +1,5 @@
+.amp/
+storage/
+compile-cache/
+.node-gyp/
+packages/
